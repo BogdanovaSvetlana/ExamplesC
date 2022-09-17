@@ -1,0 +1,15 @@
+G:\СветланаКурсы\FIRST\Examples\Exaple007_Base\obj\Debug\net6.0\Exaple007_Base.csproj.AssemblyReference.cache
+G:\СветланаКурсы\FIRST\Examples\Exaple007_Base\obj\Debug\net6.0\Exaple007_Base.GeneratedMSBuildEditorConfig.editorconfig
+G:\СветланаКурсы\FIRST\Examples\Exaple007_Base\obj\Debug\net6.0\Exaple007_Base.AssemblyInfoInputs.cache
+G:\СветланаКурсы\FIRST\Examples\Exaple007_Base\obj\Debug\net6.0\Exaple007_Base.AssemblyInfo.cs
+G:\СветланаКурсы\FIRST\Examples\Exaple007_Base\obj\Debug\net6.0\Exaple007_Base.csproj.CoreCompileInputs.cache
+G:\СветланаКурсы\FIRST\Examples\Exaple007_Base\bin\Debug\net6.0\Exaple007_Base.exe
+G:\СветланаКурсы\FIRST\Examples\Exaple007_Base\bin\Debug\net6.0\Exaple007_Base.deps.json
+G:\СветланаКурсы\FIRST\Examples\Exaple007_Base\bin\Debug\net6.0\Exaple007_Base.runtimeconfig.json
+G:\СветланаКурсы\FIRST\Examples\Exaple007_Base\bin\Debug\net6.0\Exaple007_Base.dll
+G:\СветланаКурсы\FIRST\Examples\Exaple007_Base\bin\Debug\net6.0\Exaple007_Base.pdb
+G:\СветланаКурсы\FIRST\Examples\Exaple007_Base\obj\Debug\net6.0\Exaple007_Base.dll
+G:\СветланаКурсы\FIRST\Examples\Exaple007_Base\obj\Debug\net6.0\refint\Exaple007_Base.dll
+G:\СветланаКурсы\FIRST\Examples\Exaple007_Base\obj\Debug\net6.0\Exaple007_Base.pdb
+G:\СветланаКурсы\FIRST\Examples\Exaple007_Base\obj\Debug\net6.0\Exaple007_Base.genruntimeconfig.cache
+G:\СветланаКурсы\FIRST\Examples\Exaple007_Base\obj\Debug\net6.0\ref\Exaple007_Base.dll

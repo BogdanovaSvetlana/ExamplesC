@@ -1,0 +1,15 @@
+G:\СветланаКурсы\FIRST\Examples\Example004-Div\bin\Debug\net6.0\Example004-Div.exe
+G:\СветланаКурсы\FIRST\Examples\Example004-Div\bin\Debug\net6.0\Example004-Div.deps.json
+G:\СветланаКурсы\FIRST\Examples\Example004-Div\bin\Debug\net6.0\Example004-Div.runtimeconfig.json
+G:\СветланаКурсы\FIRST\Examples\Example004-Div\bin\Debug\net6.0\Example004-Div.dll
+G:\СветланаКурсы\FIRST\Examples\Example004-Div\bin\Debug\net6.0\Example004-Div.pdb
+G:\СветланаКурсы\FIRST\Examples\Example004-Div\obj\Debug\net6.0\Example004-Div.csproj.AssemblyReference.cache
+G:\СветланаКурсы\FIRST\Examples\Example004-Div\obj\Debug\net6.0\Example004-Div.GeneratedMSBuildEditorConfig.editorconfig
+G:\СветланаКурсы\FIRST\Examples\Example004-Div\obj\Debug\net6.0\Example004-Div.AssemblyInfoInputs.cache
+G:\СветланаКурсы\FIRST\Examples\Example004-Div\obj\Debug\net6.0\Example004-Div.AssemblyInfo.cs
+G:\СветланаКурсы\FIRST\Examples\Example004-Div\obj\Debug\net6.0\Example004-Div.csproj.CoreCompileInputs.cache
+G:\СветланаКурсы\FIRST\Examples\Example004-Div\obj\Debug\net6.0\Example004-Div.dll
+G:\СветланаКурсы\FIRST\Examples\Example004-Div\obj\Debug\net6.0\refint\Example004-Div.dll
+G:\СветланаКурсы\FIRST\Examples\Example004-Div\obj\Debug\net6.0\Example004-Div.pdb
+G:\СветланаКурсы\FIRST\Examples\Example004-Div\obj\Debug\net6.0\Example004-Div.genruntimeconfig.cache
+G:\СветланаКурсы\FIRST\Examples\Example004-Div\obj\Debug\net6.0\ref\Example004-Div.dll

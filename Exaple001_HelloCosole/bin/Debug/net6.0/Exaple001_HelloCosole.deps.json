@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exaple001_HelloCosole/1.0.0": {
+        "runtime": {
+          "Exaple001_HelloCosole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exaple001_HelloCosole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

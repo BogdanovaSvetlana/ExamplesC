@@ -1,0 +1,15 @@
+G:\СветланаКурсы\FIRST\Examples\Example006_IfElse\bin\Debug\net6.0\Example006_IfElse.exe
+G:\СветланаКурсы\FIRST\Examples\Example006_IfElse\bin\Debug\net6.0\Example006_IfElse.deps.json
+G:\СветланаКурсы\FIRST\Examples\Example006_IfElse\bin\Debug\net6.0\Example006_IfElse.runtimeconfig.json
+G:\СветланаКурсы\FIRST\Examples\Example006_IfElse\bin\Debug\net6.0\Example006_IfElse.dll
+G:\СветланаКурсы\FIRST\Examples\Example006_IfElse\bin\Debug\net6.0\Example006_IfElse.pdb
+G:\СветланаКурсы\FIRST\Examples\Example006_IfElse\obj\Debug\net6.0\Example006_IfElse.csproj.AssemblyReference.cache
+G:\СветланаКурсы\FIRST\Examples\Example006_IfElse\obj\Debug\net6.0\Example006_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+G:\СветланаКурсы\FIRST\Examples\Example006_IfElse\obj\Debug\net6.0\Example006_IfElse.AssemblyInfoInputs.cache
+G:\СветланаКурсы\FIRST\Examples\Example006_IfElse\obj\Debug\net6.0\Example006_IfElse.AssemblyInfo.cs
+G:\СветланаКурсы\FIRST\Examples\Example006_IfElse\obj\Debug\net6.0\Example006_IfElse.csproj.CoreCompileInputs.cache
+G:\СветланаКурсы\FIRST\Examples\Example006_IfElse\obj\Debug\net6.0\Example006_IfElse.dll
+G:\СветланаКурсы\FIRST\Examples\Example006_IfElse\obj\Debug\net6.0\refint\Example006_IfElse.dll
+G:\СветланаКурсы\FIRST\Examples\Example006_IfElse\obj\Debug\net6.0\Example006_IfElse.pdb
+G:\СветланаКурсы\FIRST\Examples\Example006_IfElse\obj\Debug\net6.0\Example006_IfElse.genruntimeconfig.cache
+G:\СветланаКурсы\FIRST\Examples\Example006_IfElse\obj\Debug\net6.0\ref\Example006_IfElse.dll

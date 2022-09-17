@@ -1,0 +1,15 @@
+G:\СветланаКурсы\FIRST\Examples\Examples005_Mun\bin\Debug\net6.0\Examples005_Mun.exe
+G:\СветланаКурсы\FIRST\Examples\Examples005_Mun\bin\Debug\net6.0\Examples005_Mun.deps.json
+G:\СветланаКурсы\FIRST\Examples\Examples005_Mun\bin\Debug\net6.0\Examples005_Mun.runtimeconfig.json
+G:\СветланаКурсы\FIRST\Examples\Examples005_Mun\bin\Debug\net6.0\Examples005_Mun.dll
+G:\СветланаКурсы\FIRST\Examples\Examples005_Mun\bin\Debug\net6.0\Examples005_Mun.pdb
+G:\СветланаКурсы\FIRST\Examples\Examples005_Mun\obj\Debug\net6.0\Examples005_Mun.csproj.AssemblyReference.cache
+G:\СветланаКурсы\FIRST\Examples\Examples005_Mun\obj\Debug\net6.0\Examples005_Mun.GeneratedMSBuildEditorConfig.editorconfig
+G:\СветланаКурсы\FIRST\Examples\Examples005_Mun\obj\Debug\net6.0\Examples005_Mun.AssemblyInfoInputs.cache
+G:\СветланаКурсы\FIRST\Examples\Examples005_Mun\obj\Debug\net6.0\Examples005_Mun.AssemblyInfo.cs
+G:\СветланаКурсы\FIRST\Examples\Examples005_Mun\obj\Debug\net6.0\Examples005_Mun.csproj.CoreCompileInputs.cache
+G:\СветланаКурсы\FIRST\Examples\Examples005_Mun\obj\Debug\net6.0\Examples005_Mun.dll
+G:\СветланаКурсы\FIRST\Examples\Examples005_Mun\obj\Debug\net6.0\refint\Examples005_Mun.dll
+G:\СветланаКурсы\FIRST\Examples\Examples005_Mun\obj\Debug\net6.0\Examples005_Mun.pdb
+G:\СветланаКурсы\FIRST\Examples\Examples005_Mun\obj\Debug\net6.0\Examples005_Mun.genruntimeconfig.cache
+G:\СветланаКурсы\FIRST\Examples\Examples005_Mun\obj\Debug\net6.0\ref\Examples005_Mun.dll

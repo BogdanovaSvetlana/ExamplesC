@@ -1,0 +1,15 @@
+G:\СветланаКурсы\FIRST\Examples\Example002_Huser\obj\Debug\net6.0\Example002_Huser.csproj.AssemblyReference.cache
+G:\СветланаКурсы\FIRST\Examples\Example002_Huser\obj\Debug\net6.0\Example002_Huser.GeneratedMSBuildEditorConfig.editorconfig
+G:\СветланаКурсы\FIRST\Examples\Example002_Huser\obj\Debug\net6.0\Example002_Huser.AssemblyInfoInputs.cache
+G:\СветланаКурсы\FIRST\Examples\Example002_Huser\obj\Debug\net6.0\Example002_Huser.AssemblyInfo.cs
+G:\СветланаКурсы\FIRST\Examples\Example002_Huser\obj\Debug\net6.0\Example002_Huser.csproj.CoreCompileInputs.cache
+G:\СветланаКурсы\FIRST\Examples\Example002_Huser\bin\Debug\net6.0\Example002_Huser.exe
+G:\СветланаКурсы\FIRST\Examples\Example002_Huser\bin\Debug\net6.0\Example002_Huser.deps.json
+G:\СветланаКурсы\FIRST\Examples\Example002_Huser\bin\Debug\net6.0\Example002_Huser.runtimeconfig.json
+G:\СветланаКурсы\FIRST\Examples\Example002_Huser\bin\Debug\net6.0\Example002_Huser.dll
+G:\СветланаКурсы\FIRST\Examples\Example002_Huser\bin\Debug\net6.0\Example002_Huser.pdb
+G:\СветланаКурсы\FIRST\Examples\Example002_Huser\obj\Debug\net6.0\Example002_Huser.dll
+G:\СветланаКурсы\FIRST\Examples\Example002_Huser\obj\Debug\net6.0\refint\Example002_Huser.dll
+G:\СветланаКурсы\FIRST\Examples\Example002_Huser\obj\Debug\net6.0\Example002_Huser.pdb
+G:\СветланаКурсы\FIRST\Examples\Example002_Huser\obj\Debug\net6.0\Example002_Huser.genruntimeconfig.cache
+G:\СветланаКурсы\FIRST\Examples\Example002_Huser\obj\Debug\net6.0\ref\Example002_Huser.dll

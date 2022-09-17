@@ -1,0 +1,15 @@
+G:\СветланаКурсы\FIRST\Examples\Examples009_Drem\bin\Debug\net6.0\Examples009_Drem.exe
+G:\СветланаКурсы\FIRST\Examples\Examples009_Drem\bin\Debug\net6.0\Examples009_Drem.deps.json
+G:\СветланаКурсы\FIRST\Examples\Examples009_Drem\bin\Debug\net6.0\Examples009_Drem.runtimeconfig.json
+G:\СветланаКурсы\FIRST\Examples\Examples009_Drem\bin\Debug\net6.0\Examples009_Drem.dll
+G:\СветланаКурсы\FIRST\Examples\Examples009_Drem\bin\Debug\net6.0\Examples009_Drem.pdb
+G:\СветланаКурсы\FIRST\Examples\Examples009_Drem\obj\Debug\net6.0\Examples009_Drem.csproj.AssemblyReference.cache
+G:\СветланаКурсы\FIRST\Examples\Examples009_Drem\obj\Debug\net6.0\Examples009_Drem.GeneratedMSBuildEditorConfig.editorconfig
+G:\СветланаКурсы\FIRST\Examples\Examples009_Drem\obj\Debug\net6.0\Examples009_Drem.AssemblyInfoInputs.cache
+G:\СветланаКурсы\FIRST\Examples\Examples009_Drem\obj\Debug\net6.0\Examples009_Drem.AssemblyInfo.cs
+G:\СветланаКурсы\FIRST\Examples\Examples009_Drem\obj\Debug\net6.0\Examples009_Drem.csproj.CoreCompileInputs.cache
+G:\СветланаКурсы\FIRST\Examples\Examples009_Drem\obj\Debug\net6.0\Examples009_Drem.dll
+G:\СветланаКурсы\FIRST\Examples\Examples009_Drem\obj\Debug\net6.0\refint\Examples009_Drem.dll
+G:\СветланаКурсы\FIRST\Examples\Examples009_Drem\obj\Debug\net6.0\Examples009_Drem.pdb
+G:\СветланаКурсы\FIRST\Examples\Examples009_Drem\obj\Debug\net6.0\Examples009_Drem.genruntimeconfig.cache
+G:\СветланаКурсы\FIRST\Examples\Examples009_Drem\obj\Debug\net6.0\ref\Examples009_Drem.dll

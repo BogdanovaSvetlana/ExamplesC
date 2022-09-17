@@ -1,0 +1,15 @@
+G:\СветланаКурсы\FIRST\Examples\Exaple001_HelloCosole\bin\Debug\net6.0\Exaple001_HelloCosole.exe
+G:\СветланаКурсы\FIRST\Examples\Exaple001_HelloCosole\bin\Debug\net6.0\Exaple001_HelloCosole.deps.json
+G:\СветланаКурсы\FIRST\Examples\Exaple001_HelloCosole\bin\Debug\net6.0\Exaple001_HelloCosole.runtimeconfig.json
+G:\СветланаКурсы\FIRST\Examples\Exaple001_HelloCosole\bin\Debug\net6.0\Exaple001_HelloCosole.dll
+G:\СветланаКурсы\FIRST\Examples\Exaple001_HelloCosole\bin\Debug\net6.0\Exaple001_HelloCosole.pdb
+G:\СветланаКурсы\FIRST\Examples\Exaple001_HelloCosole\obj\Debug\net6.0\Exaple001_HelloCosole.csproj.AssemblyReference.cache
+G:\СветланаКурсы\FIRST\Examples\Exaple001_HelloCosole\obj\Debug\net6.0\Exaple001_HelloCosole.GeneratedMSBuildEditorConfig.editorconfig
+G:\СветланаКурсы\FIRST\Examples\Exaple001_HelloCosole\obj\Debug\net6.0\Exaple001_HelloCosole.AssemblyInfoInputs.cache
+G:\СветланаКурсы\FIRST\Examples\Exaple001_HelloCosole\obj\Debug\net6.0\Exaple001_HelloCosole.AssemblyInfo.cs
+G:\СветланаКурсы\FIRST\Examples\Exaple001_HelloCosole\obj\Debug\net6.0\Exaple001_HelloCosole.csproj.CoreCompileInputs.cache
+G:\СветланаКурсы\FIRST\Examples\Exaple001_HelloCosole\obj\Debug\net6.0\Exaple001_HelloCosole.dll
+G:\СветланаКурсы\FIRST\Examples\Exaple001_HelloCosole\obj\Debug\net6.0\refint\Exaple001_HelloCosole.dll
+G:\СветланаКурсы\FIRST\Examples\Exaple001_HelloCosole\obj\Debug\net6.0\Exaple001_HelloCosole.pdb
+G:\СветланаКурсы\FIRST\Examples\Exaple001_HelloCosole\obj\Debug\net6.0\Exaple001_HelloCosole.genruntimeconfig.cache
+G:\СветланаКурсы\FIRST\Examples\Exaple001_HelloCosole\obj\Debug\net6.0\ref\Exaple001_HelloCosole.dll
